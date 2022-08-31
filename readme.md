@@ -1,5 +1,5 @@
 ### 使用probreg實作liver registration
-<img src="https://github.com/das61005/probreg/blob/master/images/same_rotate.png" width="400" height="400" /><img src="https://github.com/das61005/probreg/blob/master/images/dif_rotate.png" width="400" height="400"/><br/>
+<img src="https://github.com/das61005/registration/blob/main/image/same_rotate.png" width="400" height="400" /><img src="https://github.com/das61005/registration/blob/main/image/dif_rotate.png" width="400" height="400"/><br/>
 
    ```
    cd examples
