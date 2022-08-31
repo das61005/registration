@@ -52,3 +52,11 @@ scale.txt(縮放量)
 ```
    python mask_transform.py
 ```
+## registration 座標轉換
+### registration_resule.py
+
+輸入座標後，輸出registration後的座標，直到輸入'c'停止
+```
+   python registration_resule.py
+```
+
